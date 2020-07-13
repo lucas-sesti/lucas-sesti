@@ -1,16 +1,13 @@
-### Hi there 👋
+# Lucas Buchalla Sesti :man_technologist:
 
-<!--
-**lucas-sesti/lucas-sesti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/lucas-sesti)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](http://linkedin.com/in/lucas-buchalla-sesti-50879018a)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:lucas.buchalla.sesti@outlook.com)
 
-Here are some ideas to get you started:
+### Olá! Seja bem vindo ao meu perfil :octocat:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Eu trabalho em desenvolvimento mobile e web
+- 🔭 Eu atualmente estou aprendendo IoT e Swift
+- ⚡ Eu atualmente tento contribuir com projetos de flutter, e angular, recentemente tenho contribuido para o [ngx-currency](https://github.com/nbfontana/ngx-currency) e  para o [Menu Button](https://github.com/huextrat/menu_button)
+- 📫 Como me contatar: [Telegram](https://t.me/lucasbuchalla) [WhatsApp](https://api.whatsapp.com/send?phone=551198028668)
+- 👯 Apaixonado por Dart e Javascript
