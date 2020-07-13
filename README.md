@@ -6,9 +6,9 @@
 
 ### Olá! Seja bem vindo ao meu perfil :octocat:
 
-- 🌱 Eu trabalho em desenvolvimento mobile e web
+- 🌱 Eu trabalho com desenvolvimento mobile e web
 - 🔭 Eu atualmente estou aprendendo IoT e Swift
 - ⚡ Eu atualmente tento contribuir com projetos de flutter, e angular, recentemente tenho contribuido para o [ngx-currency](https://github.com/nbfontana/ngx-currency) e  para o [Menu Button](https://github.com/huextrat/menu_button)
 - 📅 Calendário simples em flutter [simple_calendar_flutter](https://pub.dev/packages/simple_calendar_flutter)
 - 📫 Como me contatar: [Telegram](https://t.me/lucasbuchalla) [WhatsApp](https://api.whatsapp.com/send?phone=551198028668)
-- 👯 Apaixonado por Dart e Javascript
+- ❤️ Apaixonado por Dart e Javascript
