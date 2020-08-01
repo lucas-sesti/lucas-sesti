@@ -6,7 +6,6 @@
 
 ### Olá! Seja bem vindo ao meu perfil :octocat:
 
-- 💼 [Meu portfólio ](https://lucas-sesti.github.io)
 - 🌱 Eu trabalho com desenvolvimento mobile e web
 - 🔭 Eu atualmente estou aprendendo IoT e Swift
 - ⚡ Eu atualmente tento contribuir com projetos de flutter, e angular, recentemente tenho contribuido para o [ngx-currency](https://github.com/nbfontana/ngx-currency) e  para o [Menu Button](https://github.com/huextrat/menu_button)
