@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Projetos: 
+  💼 Projetos: <br />
       <a style="margin-left: 6px;" href="https://pub.dev/packages/simple_calendar_flutter"><strong>📅 Calendário simples em flutter</strong></a>
         <br/>
       <a style="margin-left: 6px;" href="https://pub.dev/packages/line_chart"><strong>📈 Gráfico de linha totalmente customizável em flutter</strong></a>
