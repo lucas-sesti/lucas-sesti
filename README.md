@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript/Typescript, Dart, Python e Swift.</strong>
+  🦄 Linguagens principais: <strong>Javascript/Typescript, Dart, Python e Swift.</strong>
 </p>
 
 <p align="left">
