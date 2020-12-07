@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá! Eu sou um desenvolvedor <strong>full-stack web e mobile</strong>. Tenho uma grande paixão por UX/UI design e sempre tento alcançar o melhor resultado para o usuário final! Eu gosto de trabalhar com inovações sempre procurando as melhores soluções e códigos. 
+  Olá! Eu sou um desenvolvedor <strong>full-stack web e mobile</strong>. Tenho uma grande <strong>paixão por UX/UI design</strong> e sempre tento alcançar o melhor resultado para o usuário final! Eu gosto de trabalhar com inovações sempre procurando as melhores soluções e códigos. 
 </p>
 
 <p align="left">
@@ -12,11 +12,9 @@
 
 <p align="left">
   💼 Projetos: 
-    <strong> 
-      Calendário simples em flutter ([simple_calendar_flutter](https://pub.dev/packages/simple_calendar_flutter)) 
+      <a href="https://pub.dev/packages/simple_calendar_flutter"><strong>Calendário simples em flutter</strong></a>
         <br/>
-      Gráfico de linha totalmente customizável em flutter ([line_chart](https://pub.dev/packages/line_chart))
-    </strong>
+      <a href="https://pub.dev/packages/line_chart"><strong>Gráfico de linha totalmente customizável em flutter</strong></a>
 </p>
 
 <p align="left">
