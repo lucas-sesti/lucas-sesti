@@ -1,7 +1,7 @@
 # Lucas Buchalla Sesti :man_technologist:
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
+<br/>
 <p align="left"> 
   Olá! Eu sou um desenvolvedor <strong>full-stack web e mobile</strong>. Tenho uma grande <strong>paixão por UX/UI design</strong> e sempre tento alcançar o melhor resultado para o usuário final! Eu gosto de trabalhar com inovações sempre procurando as melhores soluções e códigos. 
 </p>
