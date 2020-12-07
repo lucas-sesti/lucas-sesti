@@ -12,13 +12,13 @@
 
 <p align="left">
   💼 Projetos: <br />
-      <a style="margin-left: 6px;" href="https://pub.dev/packages/simple_calendar_flutter"><strong>📅 Calendário simples em flutter</strong></a>
+      <a href="https://pub.dev/packages/simple_calendar_flutter"><strong>📅 Calendário simples em flutter</strong></a>
         <br/>
-      <a style="margin-left: 6px;" href="https://pub.dev/packages/line_chart"><strong>📈 Gráfico de linha totalmente customizável em flutter</strong></a>
+      <a href="https://pub.dev/packages/line_chart"><strong>📈 Gráfico de linha totalmente customizável em flutter</strong></a>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato comigo: ⤵️
 </p>
 
 <p align="left">
